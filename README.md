@@ -9,12 +9,12 @@ It uses a **Retrieval-Augmented Generation (RAG)** pipeline powered by **FAISS**
 
 ## 🚀 Features
 
-- 🤖 **AI-Generated Clinical Advice** — Delivers safe, evidence-based postoperative recommendations.  
-- 📚 **RAG-Based Retrieval** — Retrieves context from medical documents using FAISS and text embeddings.  
-- 🩺 **Dynamic Context Control** — Slider to select how many context chunks (1–10) to retrieve for each query.  
-- ✅ **Response Categorization** — Classifies model outputs (AI Recommendation, General Info, or Safety Alert).  
-- ⚠️ **Safety Evaluation** — Automatically flags unsafe, incomplete, or irrelevant responses.  
-- 💻 **Modern Gradio Interface** — Interactive web UI for entering patient data and viewing results.
+-  **AI-Generated Clinical Advice** — Delivers safe, evidence-based postoperative recommendations.  
+-  **RAG-Based Retrieval** — Retrieves context from medical documents using FAISS and text embeddings.  
+-  **Dynamic Context Control** — Slider to select how many context chunks (1–10) to retrieve for each query.  
+-  **Response Categorization** — Classifies model outputs (AI Recommendation, General Info, or Safety Alert).  
+-  **Safety Evaluation** — Automatically flags unsafe, incomplete, or irrelevant responses.  
+-  **Modern Gradio Interface** — Interactive web UI for entering patient data and viewing results.
 
 ---
 
